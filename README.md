@@ -1,2 +1,2 @@
 # bigdata
-Show bigdata what can do 
+Show  what bigdata can do 
